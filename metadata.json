@@ -1,0 +1,6 @@
+{
+  "name": "Cardápio Digital & Gestão de Pedidos",
+  "description": "Cardápio digital interativo com pedidos por mesa via QR Code, carrinho, gestão em tempo real de produtos e relatórios de vendas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
